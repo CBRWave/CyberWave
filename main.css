@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    line-height: 1.5;
+    font-size: 18px;
+    background-color: black;
+    color: white
+}
+
+.card {
+    width: 550px;
+    margin: auto;
+    padding: 86px;
+
+    border-radius: 10px;
+}
+
+.card2 {
+    width: 500px;
+    margin: auto;
+    padding: 100px;
+
+
+}
+
+.container {
+    text-align: center;
+}
